@@ -72,6 +72,7 @@ const booksData = [
     popularity: 3100,
     cover: "images/cover8.png",
     link: "books/bookreader_book8_page.html"
+    
 },
 {
     title: "Тайна мёртвого ректора",
