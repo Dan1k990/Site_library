@@ -62,7 +62,6 @@ const booksData = [
     popularity: 3000,
     cover: "images/cover7.png",
     link: "books/bookreader_book7_page.html"
-
     
 },
 {
